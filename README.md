@@ -1,2 +1,2 @@
 #Hello-World-Podman
-Initial test with docker, amature (plz no flame)
+Initial test with Podman, amature (plz no flame)
